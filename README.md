@@ -1,3 +1,5 @@
+An archive of a project I created for UNI. This is a simple front end for wikiTruth.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
